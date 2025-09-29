@@ -420,5 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :ui/show-brackets? true
- :editor/logical-outdenting? false
+ :editor/logical-outdenting? true
  :publishing/all-pages-public? false}
